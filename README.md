@@ -1,6 +1,6 @@
 # YouTube Video Manager
 
-A simple Python command-line application to manage your YouTube video collection. Store, organize, and keep track of video names and durations locally.
+""A simple Python command-line application to manage your YouTube video collection"". Store, organize, and keep track of video names and durations locally.
 
 ## Features
 
